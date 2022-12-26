@@ -1,7 +1,9 @@
 # working-with-json
 How to convert any file into json or any format and find data in the file.
 
-# pandas library
+# To read a json file, import json module and use load method. json.load(file)
+
+#Using pandas library
 #How to read data using pandas?
 
 #Import pandas library first
